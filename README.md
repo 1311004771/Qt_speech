@@ -1,6 +1,7 @@
 # Qt_speech
 
 **function:**
+
 Wavform   Zoom in/out  intercept  
 
 Spectrum   
