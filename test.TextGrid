@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 723.320
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "text-zifu"
+		xmin = 0.0
+		xmax = 723.320
+		intervals: size = 2
+			intervals [1]:
+				min = 2.35
+				max = 2.56
+				text = "你们好啊"
+			intervals [2]:
+				min = 3.56
+				max = 4.53
+				text = "我很好"
+			intervals [3]:
+				min = 0
+				max = 0
+				text = "0"
